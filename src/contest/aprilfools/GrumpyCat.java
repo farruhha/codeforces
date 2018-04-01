@@ -18,7 +18,7 @@ public class GrumpyCat {
 
         Scanner scanner = new Scanner(System.in);
         int index =  scanner.nextInt();
-       
+
 
     }
 }
